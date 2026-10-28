@@ -1,0 +1,6 @@
+(.venv) theia@theiadocker-ramseyjordan:/home/project/final_project$ python test_emotion_detection.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.570s
+
+OK
